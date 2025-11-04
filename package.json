@@ -1,0 +1,23 @@
+{
+  "name": "fm-mp",
+  "version": "1.0.0",
+  "description": "media player",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richardmyu/FM-mp.git"
+  },
+  "author": "yumin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/richardmyu/FM-mp/issues"
+  },
+  "homepage": "https://github.com/richardmyu/FM-mp#readme",
+  "devDependencies": {
+    "electron": "^39.0.0"
+  }
+}
